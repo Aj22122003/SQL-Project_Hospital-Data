@@ -72,13 +72,12 @@ A special thanks to **Satish Dhawale** for guidance and mentorship throughout th
 ---
 
 ## 🔗 GitHub Repository
-
-[Click to view the full project](https://lnkd.in/d-hCJznF)
+https://github.com/Aj22122003/SQL-Project_Hospital-Data/tree/main
 
 ---
 
 ## 📢 Let’s Connect!
-
+kutarmareajinkya52@gmail.com
 
 
 
